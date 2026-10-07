@@ -1,1 +1,1 @@
-select *from dual; ---233
+select *from dual; ---2378769
